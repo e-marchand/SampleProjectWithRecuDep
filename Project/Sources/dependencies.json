@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"SampleProjectWithDep": {
+			"github": "e-marchand/SampleTestProject",
+			"version": "latest"
+		}
+	}
+}
