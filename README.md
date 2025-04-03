@@ -1,2 +1,3 @@
 # SampleProjectWithRecuDep
  
+Depends on SampleTestProject
